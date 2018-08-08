@@ -14,7 +14,7 @@ function convert(){
                if(t===1 && o !==0){
                    numbers += hundreds[h] + " " +teen[o] + " " + "<br>";
                }else
-                numbers += " " + hundreds[h] + " " + tens[t] + " " + ones[o]+ "<br>";
+                numbers +=  " " + hundreds[h] + " " + tens[t] + " " + ones[o]+ "<br>";
             }
         }
     
